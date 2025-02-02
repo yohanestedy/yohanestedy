@@ -1,6 +1,8 @@
-## Hi there, 👋 I'm Yohanes Tedy.
+## Hi there 👋
 
-> An Programmer ❤️
+> Hey there! I'm Yohanes Tedy, a Full Stack Web Developer with a hobby of turning ideas into code.
+
+Never stop learning, Always up for a new challenge - want to hire me? Hit me up!
 
 ## 🚀 Technology
 
