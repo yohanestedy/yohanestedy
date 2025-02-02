@@ -19,7 +19,3 @@ Hey there! I'm Yohanes Tedy, a Full Stack Web Developer with a hobby of turning 
 [![GITHUB](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 
 
-
-<br>
-
-![yohanestedy's Stats](https://github-readme-stats.vercel.app/api?username=yohanestedy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
