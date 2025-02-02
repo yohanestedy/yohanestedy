@@ -4,9 +4,9 @@ Hey there! I'm Yohanes Tedy, a Full Stack Web Developer with a hobby of turning 
 
 - 🔭 I’m currently working on and developing an application for nutritional assessment <a href="https://github.com/yohanestedy/sipegi-app" type="_blank">sipegi-app</a>
 
-- 🚀 Never stop learning, Always up for a new challenge - want to hire me? Hit me up!
+- 🌱 Never stop learning, Always up for a new challenge - want to hire me? Hit me up!
 
-## 🚀 Technology
+### 🛠 Languages and Tools
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
